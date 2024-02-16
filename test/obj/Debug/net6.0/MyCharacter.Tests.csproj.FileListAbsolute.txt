@@ -1,5 +1,0 @@
-/Users/clementlee/Desktop/first_contract_aelf/test/obj/Debug/net6.0/MyCharacter.Tests.csproj.AssemblyReference.cache
-/Users/clementlee/Desktop/first_contract_aelf/test/obj/Debug/net6.0/MyCharacter.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/clementlee/Desktop/first_contract_aelf/test/obj/Debug/net6.0/MyCharacter.Tests.AssemblyInfoInputs.cache
-/Users/clementlee/Desktop/first_contract_aelf/test/obj/Debug/net6.0/MyCharacter.Tests.AssemblyInfo.cs
-/Users/clementlee/Desktop/first_contract_aelf/test/obj/Debug/net6.0/MyCharacter.Tests.csproj.CoreCompileInputs.cache
